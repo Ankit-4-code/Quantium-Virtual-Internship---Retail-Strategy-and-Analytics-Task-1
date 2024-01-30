@@ -8,7 +8,7 @@ As part of Quantium’s retail analytics team, this project aims to understand c
 The dataset includes transaction records and customer demographic information. These datasets have been cleaned and preprocessed to ensure quality and reliability for the analysis. 
 
 - **Transaction Data**: Contains the transaction records for chip purchases, including product details, quantities, and prices. It has 8 columns : `DATE`, `STORE_NBR`,`LYLTY_CARD_NBR`, `TXN_ID`, `PROD_NBR`, `PROD_NAME`, `PROD_QTY`, `TOT_SALES`. 
-- **Customer Data**: Includes customer demographic information such as `LIFESTAGE` and `PREMIUM_CUSTOMER`. This is . It has 3 columns `LYLTY_CARD_NBR`, `LIFESTAGE`, `PREMIUM_CUSTOMER`.
+- **Customer Data**: Includes customer demographic information such as `LIFESTAGE` and `PREMIUM_CUSTOMER`. It has 3 columns `LYLTY_CARD_NBR`, `LIFESTAGE`, `PREMIUM_CUSTOMER`.
 
   <br>`LIFESTAGE`: Customer attribute that identifies whether a customer has a family or not and what point in life they are at e.g. are their children in pre-school/primary/secondary school.
   <br>`PREMIUM_CUSTOMER`: Customer segmentation used to differentiate shoppers by the price point of products they buy and the types of products they buy. It is used to identify whether customers may spend more for quality or brand or whether they will purchase the cheapest options.
